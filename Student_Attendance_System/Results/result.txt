@@ -1,0 +1,6 @@
+aashish  absent
+ayush present
+singla absent
+something present
+someone present
+kuthcbhi absent
